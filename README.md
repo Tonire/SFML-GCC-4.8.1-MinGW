@@ -1,0 +1,1 @@
+SFML-GCC-4.8.1-MinGW
