@@ -1,0 +1,374 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/tonir/Desktop/SFML-2.3.2 Source Code/examples/sound/Sound.cpp
+SFML/Audio.hpp
+-
+iomanip
+-
+iostream
+-
+string
+-
+
+C:/Users/tonir/Desktop/SFML-2.3.2 Source Code/include/SFML/Audio.hpp
+SFML/System.hpp
+-
+SFML/Audio/InputSoundFile.hpp
+-
+SFML/Audio/Listener.hpp
+-
+SFML/Audio/Music.hpp
+-
+SFML/Audio/OutputSoundFile.hpp
+-
+SFML/Audio/Sound.hpp
+-
+SFML/Audio/SoundBuffer.hpp
+-
+SFML/Audio/SoundBufferRecorder.hpp
+-
+SFML/Audio/SoundFileFactory.hpp
+-
+SFML/Audio/SoundFileReader.hpp
+-
+SFML/Audio/SoundFileWriter.hpp
+-
+SFML/Audio/SoundRecorder.hpp
+-
+SFML/Audio/SoundSource.hpp
+-
+SFML/Audio/SoundStream.hpp
+-
+
+C:/Users/tonir/Desktop/SFML-2.3.2 Source Code/include/SFML/Audio/AlResource.hpp
+SFML/Audio/Export.hpp
+-
+
+C:/Users/tonir/Desktop/SFML-2.3.2 Source Code/include/SFML/Audio/Export.hpp
+SFML/Config.hpp
+-
+
+C:/Users/tonir/Desktop/SFML-2.3.2 Source Code/include/SFML/Audio/InputSoundFile.hpp
+SFML/Audio/Export.hpp
+-
+SFML/System/NonCopyable.hpp
+-
+SFML/System/Time.hpp
+-
+string
+-
+
+C:/Users/tonir/Desktop/SFML-2.3.2 Source Code/include/SFML/Audio/Listener.hpp
+SFML/Audio/Export.hpp
+-
+SFML/System/Vector3.hpp
+-
+
+C:/Users/tonir/Desktop/SFML-2.3.2 Source Code/include/SFML/Audio/Music.hpp
+SFML/Audio/Export.hpp
+-
+SFML/Audio/SoundStream.hpp
+-
+SFML/Audio/InputSoundFile.hpp
+-
+SFML/System/Mutex.hpp
+-
+SFML/System/Time.hpp
+-
+string
+-
+vector
+-
+
+C:/Users/tonir/Desktop/SFML-2.3.2 Source Code/include/SFML/Audio/OutputSoundFile.hpp
+SFML/Audio/Export.hpp
+-
+SFML/System/NonCopyable.hpp
+-
+string
+-
+
+C:/Users/tonir/Desktop/SFML-2.3.2 Source Code/include/SFML/Audio/Sound.hpp
+SFML/Audio/Export.hpp
+-
+SFML/Audio/SoundSource.hpp
+-
+SFML/System/Time.hpp
+-
+cstdlib
+-
+
+C:/Users/tonir/Desktop/SFML-2.3.2 Source Code/include/SFML/Audio/SoundBuffer.hpp
+SFML/Audio/Export.hpp
+-
+SFML/Audio/AlResource.hpp
+-
+SFML/System/Time.hpp
+-
+string
+-
+vector
+-
+set
+-
+
+C:/Users/tonir/Desktop/SFML-2.3.2 Source Code/include/SFML/Audio/SoundBufferRecorder.hpp
+SFML/Audio/Export.hpp
+-
+SFML/Audio/SoundBuffer.hpp
+-
+SFML/Audio/SoundRecorder.hpp
+-
+vector
+-
+
+C:/Users/tonir/Desktop/SFML-2.3.2 Source Code/include/SFML/Audio/SoundFileFactory.hpp
+SFML/Audio/Export.hpp
+-
+string
+-
+vector
+-
+SFML/Audio/SoundFileFactory.inl
+-
+
+C:/Users/tonir/Desktop/SFML-2.3.2 Source Code/include/SFML/Audio/SoundFileFactory.inl
+
+C:/Users/tonir/Desktop/SFML-2.3.2 Source Code/include/SFML/Audio/SoundFileReader.hpp
+SFML/Audio/Export.hpp
+-
+string
+-
+
+C:/Users/tonir/Desktop/SFML-2.3.2 Source Code/include/SFML/Audio/SoundFileWriter.hpp
+SFML/Audio/Export.hpp
+-
+string
+-
+
+C:/Users/tonir/Desktop/SFML-2.3.2 Source Code/include/SFML/Audio/SoundRecorder.hpp
+SFML/Audio/Export.hpp
+-
+SFML/Audio/AlResource.hpp
+-
+SFML/System/Thread.hpp
+-
+SFML/System/Time.hpp
+-
+vector
+-
+string
+-
+
+C:/Users/tonir/Desktop/SFML-2.3.2 Source Code/include/SFML/Audio/SoundSource.hpp
+SFML/Audio/Export.hpp
+-
+SFML/Audio/AlResource.hpp
+-
+SFML/System/Vector3.hpp
+-
+
+C:/Users/tonir/Desktop/SFML-2.3.2 Source Code/include/SFML/Audio/SoundStream.hpp
+SFML/Audio/Export.hpp
+-
+SFML/Audio/SoundSource.hpp
+-
+SFML/System/Thread.hpp
+-
+SFML/System/Time.hpp
+-
+SFML/System/Mutex.hpp
+-
+cstdlib
+-
+
+C:/Users/tonir/Desktop/SFML-2.3.2 Source Code/include/SFML/Config.hpp
+TargetConditionals.h
+C:/Users/tonir/Desktop/SFML-2.3.2 Source Code/include/SFML/TargetConditionals.h
+
+C:/Users/tonir/Desktop/SFML-2.3.2 Source Code/include/SFML/System.hpp
+SFML/Config.hpp
+-
+SFML/System/Clock.hpp
+-
+SFML/System/Err.hpp
+-
+SFML/System/FileInputStream.hpp
+-
+SFML/System/InputStream.hpp
+-
+SFML/System/Lock.hpp
+-
+SFML/System/MemoryInputStream.hpp
+-
+SFML/System/Mutex.hpp
+-
+SFML/System/NonCopyable.hpp
+-
+SFML/System/Sleep.hpp
+-
+SFML/System/String.hpp
+-
+SFML/System/Thread.hpp
+-
+SFML/System/ThreadLocal.hpp
+-
+SFML/System/ThreadLocalPtr.hpp
+-
+SFML/System/Time.hpp
+-
+SFML/System/Utf.hpp
+-
+SFML/System/Vector2.hpp
+-
+SFML/System/Vector3.hpp
+-
+
+C:/Users/tonir/Desktop/SFML-2.3.2 Source Code/include/SFML/System/Clock.hpp
+SFML/System/Export.hpp
+-
+SFML/System/Time.hpp
+-
+
+C:/Users/tonir/Desktop/SFML-2.3.2 Source Code/include/SFML/System/Err.hpp
+SFML/System/Export.hpp
+-
+ostream
+-
+
+C:/Users/tonir/Desktop/SFML-2.3.2 Source Code/include/SFML/System/Export.hpp
+SFML/Config.hpp
+-
+
+C:/Users/tonir/Desktop/SFML-2.3.2 Source Code/include/SFML/System/FileInputStream.hpp
+SFML/Config.hpp
+-
+SFML/System/Export.hpp
+-
+SFML/System/InputStream.hpp
+-
+SFML/System/NonCopyable.hpp
+-
+cstdio
+-
+string
+-
+
+C:/Users/tonir/Desktop/SFML-2.3.2 Source Code/include/SFML/System/InputStream.hpp
+SFML/Config.hpp
+-
+SFML/System/Export.hpp
+-
+
+C:/Users/tonir/Desktop/SFML-2.3.2 Source Code/include/SFML/System/Lock.hpp
+SFML/System/Export.hpp
+-
+SFML/System/NonCopyable.hpp
+-
+
+C:/Users/tonir/Desktop/SFML-2.3.2 Source Code/include/SFML/System/MemoryInputStream.hpp
+SFML/Config.hpp
+-
+SFML/System/InputStream.hpp
+-
+SFML/System/Export.hpp
+-
+cstdlib
+-
+
+C:/Users/tonir/Desktop/SFML-2.3.2 Source Code/include/SFML/System/Mutex.hpp
+SFML/System/Export.hpp
+-
+SFML/System/NonCopyable.hpp
+-
+
+C:/Users/tonir/Desktop/SFML-2.3.2 Source Code/include/SFML/System/NonCopyable.hpp
+SFML/System/Export.hpp
+-
+
+C:/Users/tonir/Desktop/SFML-2.3.2 Source Code/include/SFML/System/Sleep.hpp
+SFML/System/Export.hpp
+-
+SFML/System/Time.hpp
+-
+
+C:/Users/tonir/Desktop/SFML-2.3.2 Source Code/include/SFML/System/String.hpp
+SFML/System/Export.hpp
+-
+SFML/System/Utf.hpp
+-
+locale
+-
+string
+-
+SFML/System/String.inl
+-
+
+C:/Users/tonir/Desktop/SFML-2.3.2 Source Code/include/SFML/System/String.inl
+
+C:/Users/tonir/Desktop/SFML-2.3.2 Source Code/include/SFML/System/Thread.hpp
+SFML/System/Export.hpp
+-
+SFML/System/NonCopyable.hpp
+-
+cstdlib
+-
+SFML/System/Thread.inl
+-
+
+C:/Users/tonir/Desktop/SFML-2.3.2 Source Code/include/SFML/System/Thread.inl
+
+C:/Users/tonir/Desktop/SFML-2.3.2 Source Code/include/SFML/System/ThreadLocal.hpp
+SFML/System/Export.hpp
+-
+SFML/System/NonCopyable.hpp
+-
+cstdlib
+-
+
+C:/Users/tonir/Desktop/SFML-2.3.2 Source Code/include/SFML/System/ThreadLocalPtr.hpp
+SFML/System/ThreadLocal.hpp
+-
+SFML/System/ThreadLocalPtr.inl
+-
+
+C:/Users/tonir/Desktop/SFML-2.3.2 Source Code/include/SFML/System/ThreadLocalPtr.inl
+
+C:/Users/tonir/Desktop/SFML-2.3.2 Source Code/include/SFML/System/Time.hpp
+SFML/System/Export.hpp
+-
+
+C:/Users/tonir/Desktop/SFML-2.3.2 Source Code/include/SFML/System/Utf.hpp
+SFML/Config.hpp
+-
+algorithm
+-
+locale
+-
+string
+-
+cstdlib
+-
+SFML/System/Utf.inl
+-
+
+C:/Users/tonir/Desktop/SFML-2.3.2 Source Code/include/SFML/System/Utf.inl
+
+C:/Users/tonir/Desktop/SFML-2.3.2 Source Code/include/SFML/System/Vector2.hpp
+SFML/System/Vector2.inl
+-
+
+C:/Users/tonir/Desktop/SFML-2.3.2 Source Code/include/SFML/System/Vector2.inl
+
+C:/Users/tonir/Desktop/SFML-2.3.2 Source Code/include/SFML/System/Vector3.hpp
+SFML/System/Vector3.inl
+-
+
+C:/Users/tonir/Desktop/SFML-2.3.2 Source Code/include/SFML/System/Vector3.inl
+
